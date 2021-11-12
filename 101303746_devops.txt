@@ -1,0 +1,9 @@
+COMP3104 DevOps is a combination of approaches, 
+tools, and a mentality for automating and integrating the activities of software development
+and IT teams. The emphasis is on team empowerment, cross-team communication and cooperation, 
+and technology automation. 
+A DevOps team is made up of developers and IT operations personnel who collaborate to improve the speed 
+and quality of software deployment across the product lifecycle. 
+It's a new way of working, a cultural revolution 
+with far-reaching repercussions for teams 
+and the businesses in which they operate.
